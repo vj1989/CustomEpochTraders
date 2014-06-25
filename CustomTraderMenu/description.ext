@@ -1,0 +1,7 @@
+/*
+* Copy & Paste this to the bottom 
+* of the description.ext file in
+* your mission folder.
+*/
+
+#include "custom/traderDialog/dialog.hpp"
